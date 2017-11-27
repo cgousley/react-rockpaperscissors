@@ -1,0 +1,29 @@
+[
+  {
+    "name": "rock",
+    "symbol": "O",
+    "rivals": {
+      "rock": "It's a tie",
+      "paper": "You lose",
+      "scissors": "You win"
+    }
+  },
+  {
+    "name": "paper",
+    "symbol": "__",
+    "rivals": {
+      "rock": "You win",
+      "paper": "It's a tie",
+      "scissors": "You lose"
+    }
+  },
+  {
+    "name": "scissors",
+    "symbol": ">8",
+    "rivals": {
+      "rock": "You lose",
+      "paper": "You win",
+      "scissors": "It's a tie"
+    }
+  }
+]
